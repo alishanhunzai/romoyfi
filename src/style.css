@@ -1,0 +1,604 @@
+.navbar1{
+    background-color: rgb(236,243,252);
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 12px;
+    
+    }
+    .icons i{
+         padding-left: 8px;
+         font-size: 25px;
+         
+    }
+    .options{
+        border-radius: 30px;
+    }
+     
+    .navbar2{
+        display: flex;
+        justify-content: space-around;
+        margin:12px ;
+    }
+    .logo{
+        margin-right: 100px;
+    }
+    .mail{
+        margin-right: 50px;
+        font-size: 20px;
+        margin-top: 15px;
+    }
+     .button{
+        margin-left: 0px;
+        font-size: 25px;
+        color: #183661;
+        border-radius: px;
+        
+       
+    
+     }
+    
+     .order{
+        border-radius: 30px;
+        color:#fff;
+        background-color: #1836
+     }
+        .navbar3{
+       display: flex;
+       justify-content: space-around;
+       background-color:#183661;
+       align-items: center;
+       padding: 12px 12px;
+     }
+     .navbarlist ul{
+        display: flex;
+        list-style: none;
+     }
+    
+     #home{
+    background-color: #f2c119;
+     }
+     .navbarlist ul li{
+        margin-right: 20px;
+     }
+     .navbarlist ul li a{
+        color: #fff;
+        text-decoration: none;
+        padding: 29px 25px
+     }
+    
+     .navbarlist ul li a:hover{
+        background-color: #f2c119;
+       
+     }
+     .search{
+        display: flex;
+        margin-left: -22px;
+        margin-top: 5px;
+        width:0 ;
+     }
+     .search input{
+    
+        padding: 10px 50px;
+        border-radius: 30px;
+        border: none;
+     }
+     .search i{
+       margin-left: -25px;
+        margin-top: 12px;;
+     }
+    .section{
+       background: url('banner.jpg');
+       height: 660px;
+       display: flex;
+       justify-content: space-between;
+    }
+    .section h2 {
+       margin-top:15  0px;
+       margin-left: 110px;
+       font-size: 100px;
+       color: #183661;
+    }
+    .section h1{
+       margin-top: -80px;
+       margin-left: 110px;
+       font-size: 130px;
+       color: #f2c119;
+    }
+    .fashion{
+       color: #2a2a2c;
+       font-size: 40px;
+       margin-left: -850px;
+       margin-top: 500px; 
+    }
+    .button1{
+       border-radius: 30px;
+       font-size: 30px;  
+       color: white;
+       background-color: blue;
+       border: none;
+       margin-top: 30px;
+       width: 200px;
+       height: 50px;
+    }
+    .button1:hover{
+       background-color: #f2c119;
+       color: black;
+    }
+    
+    .items{
+       display: flex;
+    }
+    .shoes{
+       padding: 35px 62px;
+       background-color:#f2c119 ;
+       color: white;
+      text-align: center;
+      font-family: fantasy;
+    }
+    .shirt{
+       padding: 30px 62px;
+       background-color: #183661;
+       color: #fff;
+       text-align: center;
+       font-family: fantasy;
+    }
+    .content {
+       background-image: url('/programming/product_bg.jpg');
+      height: 1500px;
+       
+       background-size: contain;
+       background-repeat: no-repeat;
+    }
+    .featured h1{
+    margin-left: 100px;
+    padding-top: 100px;
+    }
+    .line{
+       background-color: #f2c119;
+       
+       margin-left: 80px;
+      height: 5px;
+      margin-right: 80px;
+    
+    }
+    .bar{
+       display: flex;
+       justify-content: space-around;
+       margin-top: 30px;
+       margin-left: 50px;
+    }
+    .shoes1{
+        padding: 60px 15px;
+        background-color: #f2f2f2;
+    
+    }
+    .shoes2{
+      padding: 60px 15px;
+      background-color: #f2f2f2 ;  
+    
+    }
+    .shoes3{
+      
+      padding: 60px 15px;
+       background-color: #f2f2f2;
+    
+    }
+    .shoes4{
+      
+       padding: 60px 15px;
+    
+       background-color: #f2f2f2;
+    
+    }
+    .shoes5{
+       
+      padding: 60px 15px;
+       background-color: #f2f2f2;
+    
+    }
+    .heading{
+       margin-left: 50px;
+       display: flex;
+       justify-content: space-around;
+    }
+    .bar2{
+       display: flex;
+       justify-content: space-around;
+       margin-top: 30px;
+       margin-left: 50px; 
+    }
+    .shirt1{
+        padding: 60px 15px;
+        background-color: #f2f2f2;
+    
+    }
+    .shirt2{
+        padding: 60px 15px;
+        background-color: #f2f2f2;
+    
+    }
+    .shirt3{
+        padding: 60px 15px;
+        background-color: #f2f2f2;
+    
+    }
+    .shirt4{
+        padding: 60px 15px;
+        background-color: #f2f2f2;
+    
+    }
+    .shirt5{
+        padding: 60px 15px;
+        background-color: #f2f2f2;
+    
+    }
+     .heading1{
+       margin-left: 50px;
+       display: flex;
+       justify-content: space-around;
+     }
+     .bar3{
+       display: flex;
+       justify-content: space-around;
+       margin-top: 30px;
+       margin-left: 50px; 
+    }
+    .mix1{
+        padding: 60px 15px;
+        background-color: #f2f2f2;
+    
+    }
+    .mix2{
+        padding: 60px 15px;
+        background-color: #f2f2f2;
+    
+    }
+    .mix3{
+        padding: 60px 15px;
+        background-color: #f2f2f2;
+    
+    }
+    .mix4{
+        padding: 60px 15px;
+        background-color: #f2f2f2;
+    
+    }
+    .mix5{
+        padding: 60px 15px;
+        background-color: #f2f2f2;
+    
+    }
+     .heading2{
+       margin-left: 50px;
+       display: flex;
+       justify-content: space-around;
+     }
+     .button2{
+       border-radius: 30px;
+       font-size: 20px;  
+       color: white;
+       background-color:#183661;
+       border: none;
+       width: 150px;
+       height: 50px;
+    margin-left: 600px;
+    margin-top: 50px;
+     }
+    .button2:hover{
+       background-color: #f2c119;
+      
+    }
+     .collection img{
+       width: 1340px;
+       margin-top: 100px;
+     }
+     .news{
+       margin-left: 70px;
+       padding-top: 100px;
+       font-size: 25px;
+       }
+       .line1{
+          background-color: #f2c119;
+         margin-left: 50px;
+         height: 5px;
+         margin-right: 50px;
+         margin-top: 10px;
+       
+       }
+       .div7{
+          display: flex;
+          margin-top: 50px;
+          margin-left: 20px;
+       }
+       .div7 h1{
+          margin-left: 30px;
+       }
+       .like{
+    font-size: 20px;
+    margin-left: 30px;
+       }
+       .comment{
+          font-size: 20px;
+          margin-left: 550px;
+          margin-top: -22px;
+    
+       }
+    .line2{
+       background-color: #f2c119;
+       height: 1px;
+       margin-left: 30px;
+       margin-right: 625px;
+    }
+    .line3{
+       background-color: #f2c119;
+       height: 1px;
+       margin-left: 550px;
+       margin-right: 80px;
+    }
+    .div7 h4{
+       margin-left: 30px;
+       font-size: 20px;
+       font-family: sans-serif;
+    }
+    
+    .div8{
+          display: flex;
+          margin-top: 50px;
+          margin-left: 20px;
+       }
+       .div8  h1{
+          margin-left: 30px;
+       }
+       .like1{
+    font-size: 20px;
+    margin-left: 30px;
+       }
+       .comment1{
+          font-size: 20px;
+          margin-left: 550px;
+          margin-top: -22px;
+    
+       }
+    .line4{
+       background-color: #f2c119;
+       height: 1px;
+       margin-left: 30px;
+       margin-right: 625px;
+    }
+    .line5{
+       background-color: #f2c119;
+       height: 1px;
+       margin-left: 550px;
+       margin-right: 80px;
+    }
+    .div8 h5{
+       margin-left: 30px;
+       font-size: 20px;
+       font-family: sans-serif;
+    
+    }
+    .div9{
+       display: flex;
+       margin-top: 50px;
+       margin-left: 20px;
+    }
+    .div9 h1{
+       margin-left: 30px;
+    }
+    .like2{
+    font-size: 20px;
+    margin-left: 30px;
+    }
+    .comment2{
+       font-size: 20px;
+       margin-left: 550px;
+       margin-top: -22px;
+    
+    }
+    .line6{
+    background-color: #f2c119;
+    height: 1px;
+    margin-left: 30px;
+    margin-right: 625px;
+    }
+    .line7{
+    background-color: #f2c119;
+    height: 1px;
+    margin-left: 550px;
+    margin-right: 80px;
+    }
+    .div9 h5{
+    margin-left: 30px;
+    font-size: 20px;
+    font-family: sans-serif;
+    
+    
+    }
+    .subscribe{
+      
+    display: flex;
+     justify-content: space-between;
+    margin-left: 20px;
+    font-size: 50px;
+    margin-top: 100px;
+    font-family:sans-serif, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+       
+    }
+    
+    .input1{
+       border-radius:30px;
+       width: 500px;
+       height: 50px;
+       margin-left: 100px;
+       border: 1px solid black;
+       margin-right: 80px;
+       margin-top: 100px;
+       padding-left: 15px;
+       
+    }
+    .button5{
+       width: 150px;
+       border-radius: 400px;
+       height: 40px;
+       background-color: #183661;
+       color: #fff;
+       border: none;
+       margin-left: 450px;
+       font-size: 17px;
+    
+    }
+    .button5:hover{
+       background-color: #f2c119;
+    }
+    .div10{
+       display: flex;
+       justify-content: space-between;
+    } 
+    .div11{
+       background-color: #183661;
+       height: 550px;
+       display: flex;
+       justify-content: space-around;
+       margin-top: 100px;
+    }
+    .money{
+       height: 120px;
+       background-color: white;
+       width: 400px; 
+       border-radius: 30px;
+       margin-top: -25px;
+       text-align: center;
+    
+    }
+    .gift{
+       height: 120px;
+       background-color: white;
+       width: 400px; 
+       border-radius: 30px;
+       margin-top: -25px;
+       text-align: center;
+    
+    }
+    .car{
+       height: 120px;
+       background-color: white;
+       width: 400px; 
+       border-radius: 30px;
+       margin-top: -25px;
+       text-align: center;
+    
+    }
+    .back{
+       color: #183661;
+       font-size: 20px;
+       margin-top: -5px;
+    }
+    .special{
+       color: #183661;
+       font-size: 20px;
+       margin-top: -5px;
+    }
+    .free{
+       color: #183661;
+       font-size: 20px;
+       margin-top: -5px;
+    }
+    
+    .information{
+       margin-top: -400px;
+       margin-left: 50px;
+       font-size: 20px;
+       color: #fff;
+       font-family: sans-serif;
+       line-height: 30px;
+       
+    }
+    .account{
+       margin-top: -375px;
+       margin-left: 380px;
+       font-size: 20px;
+       color: #fff;
+       font-family: sans-serif;
+       line-height: 30px;
+       
+    }
+    .about{
+       margin-top: -375px;
+       margin-left: 680px;
+       font-size: 20px;
+       color: #fff;
+       font-family: sans-serif;
+       line-height: 30px;
+       
+    }
+    .phone{
+       margin-top: -375px;
+       margin-left: 980px;
+       font-size: 20px;
+       color: #fff;
+       font-family: sans-serif;
+       line-height: 30px;
+       
+    }
+    .div12{
+    background-color: #fbfdfd;
+    height: 50px;
+    text-align: center;
+    font-size: 20px ;
+    
+    }
+    .div12 i{
+       margin-top: 30px;
+    }  
+    
+    @media(max-width:900px){
+       .navbar1{
+          background-color:  rgb(236,243,252);
+          display: block;
+         justify-content: space-around;
+          padding: 10px 12px;
+          text-align: center;
+          line-height: 30px;
+          
+          }
+          .icons i{
+               padding-left: 8px;
+               font-size: 25px;
+               
+          }
+          .options{
+              border-radius: 30px;
+    
+          }
+    ​
+          .navbar2{
+             display: block;
+             justify-content: space-around;
+             padding:10px 12px ;
+             text-align: center;
+         }
+         .logo{
+             margin-right: 100px;
+         }
+         .mail{
+             margin-right: 50px;
+             font-size: 20px;
+             margin-top: 15px;
+         }
+          .button{
+             margin-left: 0px;
+             font-size: 25px;
+             color: #183661;
+             border-radius: px;
+             
+            
+         
+         
+          }
+         
+          .order{
+             border-radius: 30px;
+             color:#fff;
+             background-color: #1836
+          }
+    }
